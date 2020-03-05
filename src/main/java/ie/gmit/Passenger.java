@@ -1,5 +1,13 @@
 package ie.gmit;
 
+
+
+/*
+*
+*   Liam MARTIN-ESCOFFIER
+ *  Passenger Class with verifcation of variable 
+*
+* */
 public class Passenger {
     public String Title;
     public String Name;
